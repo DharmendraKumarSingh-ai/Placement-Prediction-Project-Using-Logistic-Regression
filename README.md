@@ -17,7 +17,6 @@ The main objective of this project is to build a machine learning model that can
 * Pandas
 * NumPy
 * Matplotlib
-* Seaborn
 * Scikit-learn
 
 ## 🤖 Machine Learning Algorithm
